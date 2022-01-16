@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "TestName",
+    "ResponsiblePerson": "TestPerson",
+    "Description": "TestDescription",
+    "Category": 2,
+    "Type": 1,
+    "StartDate": "2022-01-16T12:56:53.6262257+02:00",
+    "EndDate": "2022-01-16T12:56:53.6298961+02:00",
+    "People": []
+  },
+  {
+    "Name": "TestName",
+    "ResponsiblePerson": "TestPerson",
+    "Description": "TestDescription",
+    "Category": 2,
+    "Type": 1,
+    "StartDate": "2022-01-16T13:01:39.3732262+02:00",
+    "EndDate": "2022-01-16T13:01:39.3734181+02:00",
+    "People": []
+  },
+  {
+    "Name": "TestName",
+    "ResponsiblePerson": "TestPerson",
+    "Description": "TestDescription",
+    "Category": 2,
+    "Type": 1,
+    "StartDate": "2022-01-16T13:03:31.3405151+02:00",
+    "EndDate": "2022-01-16T13:03:31.3406752+02:00",
+    "People": []
+  }
+]
